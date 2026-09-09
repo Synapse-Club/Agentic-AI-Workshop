@@ -34,18 +34,6 @@ Wait for the installation to finish.
 
 Note: Restart the Jupyter kernel after installation if required.
 
-Test the Installation
-
-Run the following code in a new Jupyter cell:
-```bash
-import langchain
-import langgraph
-import chromadb
-import mcp
-
-print("✅ All libraries installed successfully!")
-print("🚀 You are ready for the workshop!")
-```
 
 ### Option 2 — Clone This Repository
 
@@ -65,6 +53,18 @@ pip install -r requirements.txt
 If pip doesn't work, use:
 ```bash
 python -m pip install -r requirements.txt
+```
+
+## 3. Verify Your Setu
+Run the following code in a new Jupyter cell:
+```bash
+import langchain
+import langgraph
+import chromadb
+import mcp
+
+print("✅ All libraries installed successfully!")
+print("🚀 You are ready for the workshop!")
 ```
 
 
