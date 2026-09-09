@@ -1,14 +1,3 @@
-If you want to directly install all library's %pip install langchain langgraph chromadb mcp
-
-If you have downloaded or cloned the repo run pip install -r requirements.txt inside the folder
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/synapse-agentic-ai-workshop.git
-cd synapse-agentic-ai-workshop
-```
-
 # 🤖 Synapse Agentic AI Workshop — Setup Guide
 
 This guide will help you set up your environment for the workshop.
