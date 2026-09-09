@@ -29,6 +29,7 @@ Check your Python version:
 ```bash
 python --version
 ```
+## 2. Install Libraries
 
 Option 1 — Install Libraries Directly
 
@@ -36,8 +37,35 @@ If you don't want to download the repository, you can install all the required l
 
 Open a Jupyter Notebook and run:
 
+```bash
 %pip install langchain langgraph chromadb mcp
+```
 
 Wait for the installation to finish.
 
 Note: Restart the Jupyter kernel after installation if required.
+
+Test the Installation
+
+Run the following code in a new Jupyter cell:
+```bash
+import langchain
+import langgraph
+import chromadb
+import mcp
+
+print("✅ All libraries installed successfully!")
+print("🚀 You are ready for the workshop!")
+```
+
+Option 2 — Install Libraries Directly
+
+
+
+
+
+
+
+
+
+
