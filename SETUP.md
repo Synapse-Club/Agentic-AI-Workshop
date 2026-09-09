@@ -39,12 +39,12 @@ Note: Restart the Jupyter kernel after installation if required.
 
 If you have Git installed, open Command Prompt / PowerShell / Terminal and run:
 ```bash
-git clone https://github.com/YOUR-USERNAME/synapse-agentic-ai-workshop.git
+git clone https://github.com/Synapse-Club/Agentic-AI-Workshop.git
 ```
 
 Move into the repository folder:
 ```bash
-cd synapse-agentic-ai-workshop
+cd Agentic-AI-Workshop
 ```
 Install all required libraries:
 ```bash
@@ -66,11 +66,5 @@ import mcp
 print("✅ All libraries installed successfully!")
 print("🚀 You are ready for the workshop!")
 ```
-
-
-
-
-
-
 
 
