@@ -106,13 +106,3 @@ Detailed instructions are available in:
 | `05_mcp` | MCP examples |
 | `06_agent_project` | Workshop project |
 | `datasets` | Sample PDFs and datasets |
-
----
-
-## ⚡ Quick Start
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/synapse-agentic-ai-workshop.git
-cd synapse-agentic-ai-workshop
