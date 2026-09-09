@@ -18,6 +18,9 @@ Check your Python version:
 ```bash
 python --version
 ```
+
+---
+
 ## 2. Install Libraries
 
 ### Option 1 — Install Libraries Directly
@@ -34,6 +37,7 @@ Wait for the installation to finish.
 
 Note: Restart the Jupyter kernel after installation if required.
 
+-- 
 
 ### Option 2 — Clone This Repository
 
@@ -55,6 +59,8 @@ If pip doesn't work, use:
 python -m pip install -r requirements.txt
 ```
 
+---
+
 ## 3. Verify Your Setu
 Run the following code in a new Jupyter cell:
 ```bash
@@ -67,4 +73,4 @@ print("✅ All libraries installed successfully!")
 print("🚀 You are ready for the workshop!")
 ```
 
-
+---
