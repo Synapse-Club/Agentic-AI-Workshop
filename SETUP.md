@@ -47,9 +47,25 @@ print("✅ All libraries installed successfully!")
 print("🚀 You are ready for the workshop!")
 ```
 
-Option 2 — Install Libraries Directly
+Option 2 — Clone This Repository
 
+If you have Git installed, open Command Prompt / PowerShell / Terminal and run:
+```bash
+git clone https://github.com/YOUR-USERNAME/synapse-agentic-ai-workshop.git
+```
 
+Move into the repository folder:
+```bash
+cd synapse-agentic-ai-workshop
+```
+Install all required libraries:
+```bash
+pip install -r requirements.txt
+```
+If pip doesn't work, use:
+```bash
+python -m pip install -r requirements.txt
+```
 
 
 
