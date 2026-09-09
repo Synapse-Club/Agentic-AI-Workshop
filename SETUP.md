@@ -37,7 +37,7 @@ Wait for the installation to finish.
 
 Note: Restart the Jupyter kernel after installation if required.
 
--- 
+----
 
 ### Option 2 — Clone This Repository
 
