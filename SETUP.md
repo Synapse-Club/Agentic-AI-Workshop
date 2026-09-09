@@ -20,7 +20,7 @@ python --version
 ```
 ## 2. Install Libraries
 
-Option 1 — Install Libraries Directly
+**Option 1 — Install Libraries Directly**
 
 If you don't want to download the repository, you can install all the required libraries directly from Jupyter Notebook.
 
