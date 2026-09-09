@@ -30,7 +30,7 @@ If you don't want to download the repository, you can install all the required l
 Open a Jupyter Notebook and run:
 
 ```bash
-%pip install langchain langgraph chromadb mcp
+%pip install langchain langgraph chromadb mcp langchain-groq
 ```
 
 Wait for the installation to finish.
