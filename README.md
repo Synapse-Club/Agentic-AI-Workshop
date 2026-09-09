@@ -33,9 +33,9 @@ agents using modern GenAI frameworks and tools.
 ### Software
 
 - Python 3.10+
-- VS Code / Jupyter Notebook
+- VS Code
+- Jupyter Notebook
 - Git
-- GitHub account
 
 ### Python Libraries
 
@@ -49,14 +49,13 @@ agents using modern GenAI frameworks and tools.
 
 - GitHub account
 - LLM API account/API key
-  - Azure OpenAI or Groq
+- Azure OpenAI or Groq
 - Claude account for MCP session
 
 ### Hardware
 
 - Individual laptop preferred
-- Minimum 8 GB RAM
-- 16 GB RAM recommended
+- Minimum 8 GB RAM, 16 GB RAM recommended
 - No dedicated GPU required
 
 ### Knowledge Required
