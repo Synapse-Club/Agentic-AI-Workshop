@@ -47,7 +47,7 @@ print("✅ All libraries installed successfully!")
 print("🚀 You are ready for the workshop!")
 ```
 
-Option 2 — Clone This Repository
+### Option 2 — Clone This Repository
 
 If you have Git installed, open Command Prompt / PowerShell / Terminal and run:
 ```bash
